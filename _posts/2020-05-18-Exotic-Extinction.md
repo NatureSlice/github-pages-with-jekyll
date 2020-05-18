@@ -1,5 +1,5 @@
 ---
-title: Exotic Extinction
+title: "Exotic Extinction"
 date: 2020-05-18
 ---
 
