@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Nature Slice
 
-I'm glad you are here. I plan to talk about ...
+Your home slice for the natural world 
